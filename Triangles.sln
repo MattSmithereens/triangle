@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangles", "Triangles\Triangles.csproj", "{39950451-8509-466C-AE53-4396D70CDEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39950451-8509-466C-AE53-4396D70CDEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39950451-8509-466C-AE53-4396D70CDEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39950451-8509-466C-AE53-4396D70CDEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39950451-8509-466C-AE53-4396D70CDEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
